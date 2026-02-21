@@ -4,6 +4,7 @@
 ## 🎮 Play Online
 
 👉 https://shinyone21.github.io/EcoDrop/
+
 ※画面を横にしてプレイしてください。
 
 
