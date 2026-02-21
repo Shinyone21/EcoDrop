@@ -1,7 +1,7 @@
 # EcoDrop
 学校の研究の一環で作成した、2D思考型アクションゲーム「EcoDrop」の公開ページです。
 
-## Play in your browser
+## Play in your Browser Online
 
 → https://shinyone21.github.io/EcoDrop/
 
