@@ -1,7 +1,7 @@
 # EcoDrop
 学校の研究の一環で作成した、2D思考型アクションゲーム「EcoDrop」の公開ページです。
 
-## Play Online
+## Play in your browser
 
 → https://shinyone21.github.io/EcoDrop/
 
@@ -13,6 +13,8 @@
 - [Windows](https://github.com/shinyone21/EcoDrop/releases/latest/download/EcoDrop_Windows_x64.zip)
 - [Linux](https://github.com/shinyone21/EcoDrop/releases/latest/download/EcoDrop_Linux_x64.tar.xz)
 - [Android](https://github.com/shinyone21/EcoDrop/releases/latest/download/EcoDrop_Android.apk)
+
+※macOSとiOS版は、ビルド環境がないため、用意できませんでした。
 
 
 ## Game Overview
