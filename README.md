@@ -9,7 +9,7 @@
 ## ⬇ Download (Latest Version)
 
 - [Windows](https://github.com/shinyone21/EcoDrop/releases/latest/download/EcoDrop_Windows_x64.zip)
-- [Linux](https://github.com/shinyone21/EcoDrop/releases/latest/download/EcoDrop_Linux_x64.zip)
+- [Linux](https://github.com/shinyone21/EcoDrop/releases/latest/download/EcoDrop_Linux_x64.tar.xz)
 - [Android](https://github.com/shinyone21/EcoDrop/releases/latest/download/EcoDrop_Android.apk)
 
 
