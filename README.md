@@ -14,7 +14,7 @@
 - [Linux](https://github.com/shinyone21/EcoDrop/releases/latest/download/EcoDrop_Linux_x64.tar.xz)
 - [Android](https://github.com/shinyone21/EcoDrop/releases/latest/download/EcoDrop_Android.apk)
 
-※macOSとiOS版は、ビルド環境がないため、用意できませんでした。
+※macOS版とiOS版は、ビルド環境がないため、用意できませんでした。
 
 
 ## Game Overview
