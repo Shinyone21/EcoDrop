@@ -48,7 +48,7 @@ PCだけでなく、スマートフォンやタブレットでも動作します
 
 「もっとこうした方が良い」というような改善点や提案もIssueで受け付けています。
 
-
-Made with Unity.
-
+<small>
+Made with Unity.</br>
 © 2026 shinyone21
+</small>
