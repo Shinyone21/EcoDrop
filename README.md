@@ -48,7 +48,8 @@ PCだけでなく、スマートフォンやタブレットでも動作します
 
 「もっとこうした方が良い」というような改善点や提案もIssueで受け付けています。
 
-<small>
+
+<div align="center" style="font-size: 0.8em; color: gray;">
 Made with Unity.</br>
 © 2026 shinyone21
-</small>
+</div>
