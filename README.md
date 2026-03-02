@@ -20,9 +20,7 @@ PCだけでなく、スマートフォンやタブレットでも動作します
 
 ## Download (Latest Version)
 
-- [Windows](https://github.com/shinyone21/EcoDrop/releases/latest/download/EcoDrop_Windows_x64.zip)
-- [Linux](https://github.com/shinyone21/EcoDrop/releases/latest/download/EcoDrop_Linux_x64.tar.xz)
-- [Android](https://github.com/shinyone21/EcoDrop/releases/latest/download/EcoDrop_Android.apk)
+Releasesよりダウンロードが可能です。
 
 ※macOS版とiOS版は、ビルド環境がないため、用意できませんでした。
 
