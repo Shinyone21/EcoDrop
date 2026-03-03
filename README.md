@@ -20,6 +20,12 @@ PCだけでなく、スマートフォンやタブレットでも動作します
 
 ## Download (Latest Version)
 
+### Available On
+
+- Windows (x64 and ARM)
+- Linux (x64 only)
+- Android (ARM only)
+
 [Releases](https://github.com/Shinyone21/EcoDrop/releases/latest)よりダウンロードが可能です。
 
 ※macOS版とiOS版は、ビルド環境がないため、用意できませんでした。
