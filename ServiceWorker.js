@@ -1,9 +1,9 @@
 const cacheName = "com.arabustam_21.otuhs-Eco Drop-1.2.1";
 const contentToCache = [
     "Build/ver1.2.1.loader.js",
-    "Build/ver1.2.1.framework.js.br",
-    "Build/ver1.2.1.data.br",
-    "Build/ver1.2.1.wasm.br",
+    "Build/ver1.2.1.framework.js.unityweb",
+    "Build/ver1.2.1.data.unityweb",
+    "Build/ver1.2.1.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
