@@ -1,0 +1,15 @@
+{
+    "name": "Eco Drop",
+    "short_name": "Eco Drop",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#231F20",
+    "theme_color": "#000",
+    "description": "このゲームは、次々と流れてくるごみを正しく分別していくゲームです。ごみ分別に興味を持ってもらうために制作しました。",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
